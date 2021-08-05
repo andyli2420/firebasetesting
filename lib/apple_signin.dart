@@ -64,7 +64,7 @@ class _GoogleSigninPageState extends State<GoogleSigninPage> {
                     webAuthenticationOptions: WebAuthenticationOptions(
                       clientId: '',
                       redirectUri: Uri.parse(
-                        'https://flutter-13b3e.firebaseapp.com/__/auth/handler',
+                        'https://iostesting-b52e5.firebaseapp.com/__/auth/handler',
                       ),
                     ),
 
